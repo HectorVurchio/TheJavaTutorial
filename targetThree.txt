@@ -1,0 +1,10 @@
+This is an example of Java input IO
+al the code is typed for me
+but the source is The Java Tutorial
+I'm acting as though a were the stream
+the tutorial is the source and this notepad is the target
+all data is consumed while printing to a file.
+This is the file used to test CopyBytes class
+the code comes from The Java Tutorial from Oracle
+we will be trying to perform a stream operation from
+here to a target file equally named target.txt
