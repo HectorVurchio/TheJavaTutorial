@@ -1,4 +1,4 @@
-this is the file in which the files operations of FileOperations.java
+the files operations of FileOperations.java
 will be executed.
 This is an example of Java input IO
 al the code is typed for me
@@ -9,4 +9,5 @@ all data is consumed while printing to a file.
 This is the file used to test CopyBytes class
 the code comes from The Java Tutorial from Oracle
 we will be trying to perform a stream operation from
-here to a target file equally named target.txt
+here to a target file equally named target.txt 
+
